@@ -4,8 +4,15 @@
         <description><![CDATA[eyebrandit]]></description>
         <link>https://thegrid.ai/eyebrandit/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 23 Aug 2016 17:49:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Aug 2016 17:49:56 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/eyebrandit/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[How The New Yorker Finally Figured Out The Internet: 3 Lessons From Its Web Redesign]]></title>
+            <description><![CDATA[<article><h1>How The New Yorker Finally Figured Out The Internet: 3 Lessons From Its Web Redesign</h1><p>In late July, NewYorker.com unveiled a slew of changes aimed at modernizing the site. The update included a responsive design that's meant to work just as well on smartphones as it does on desktops and free (if temporary) access to an archive previously only available to subscribers.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/e4e260d0daeccaa131fda4c5436cc960/noop.jpg?input=https%3A%2F%2Fa.fastcompany.net%2Fmultisite_files%2Ffastcompany%2Fimagecache%2Finline-large%2Finline%2F2014%2F09%2F3035381-inline-i-1-3-lessons-other-pubs-can-learn-from-newyorkercoms-redesign.jpg"></article>]]></description>
+            <link>http://www.fastcodesign.com/3035381/how-the-new-yorker-finally-figured-out-the-internet-3-lessons-from-its-web-redesign</link>
+            <guid isPermaLink="false">4fc544e8-a7b1-433d-aa44-b50e20a5d306</guid>
+            <pubDate>Tue, 23 Aug 2016 17:49:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[50 Free Resources for Web Designers from 2014]]></title>
             <description><![CDATA[<article><h1>50 Free Resources for Web Designers from 2014</h1><p>In this post, I have collated my top 50 free resources for web designers from 2014. There are libraries for quickly creating CSS charts and animating SVG icons, tools for converting image files to data URIs, web-based apps for creating icon fonts from SVGs, jQuery plugins for touch-enabled sliders, JavaScript libraries for creating animated GIFs, generators for creating Flexbox layouts...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/515b7e3930cdcf722fda3ed95f37052d/noop.jpg?input=https%3A%2F%2Fenvato.com%2Fwp-content%2Fuploads%2F2014%2F12%2F50-Free-Resources-for-Web-Designers-from-2014-1200x630.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://line25.com/articles/modern-examples-of-the-classic-sidebar-menu-layout</link>
             <guid isPermaLink="false">cca677be-8591-4c89-8d01-50620e4700a8</guid>
             <pubDate>Tue, 23 Aug 2016 17:46:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Interactivity, Dynamics, Animations: Fresh Examples of Non-Static Websites - Designmodo]]></title>
-            <description><![CDATA[<article><h1>Interactivity, Dynamics, Animations: Fresh Examples of Non-Static Websites - Designmodo</h1><p>Non-static websites is totally not a brand-new concept. At the beginning it was flash-powered websites that impressed us with its fantastic animations and astounding effects, and today they "have passed the baton" to the next more sophisticated and lightweight HTML5-based solutions that ably combine together CSS3 and jQuery possibilities.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/2e1dc1721a79c5d413f76233e95ffcd2/noop.jpg?input=http%3A%2F%2Fdesignmodo.com%2Fwp-content%2Fuploads%2F2014%2F01%2FFixed-Agency.jpg"></article>]]></description>
-            <link>http://designmodo.com/non-static-websites/</link>
-            <guid isPermaLink="false">bb5964f8-596f-4a98-9037-1656f70ae33e</guid>
-            <pubDate>Tue, 23 Aug 2016 17:46:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
