@@ -24,43 +24,43 @@ description: >-
 inLanguage: en
 app_links:
   - url: 'https://flipboard.com/@ingabrel/design-2vhu0lhey'
-    type: web
     namespace: ai
+    type: web
     app_name: Flipboard
     package: flipboard.app
   - url: >-
       flipboard://showSection/sid/2vhu0lhey/ingabrel?title=design%20on%20Flipboard
-    type: android
     namespace: ai
+    type: android
   - url: >-
       flipboard://showSection/sid/2vhu0lhey/ingabrel?title=design%20on%20Flipboard
-    type: ios
     namespace: ai
+    type: ios
     app_store_id: '358801284'
     app_name: Flipboard
   - url: >-
       flipboard://showSection/sid/2vhu0lhey/ingabrel?title=design%20on%20Flipboard
-    namespace: twitter
     type: ipad
+    namespace: twitter
     name: Flipboard
     id: '358801284'
   - url: >-
       flipboard://showSection/sid/2vhu0lhey/ingabrel?title=design%20on%20Flipboard
-    namespace: twitter
     type: iphone
+    namespace: twitter
     name: Flipboard
     id: '358801284'
   - url: >-
       flipboard://showSection/sid/2vhu0lhey/ingabrel?title=design%20on%20Flipboard
-    namespace: twitter
     type: googleplay
+    namespace: twitter
     name: Flipboard
     id: flipboard.app
 isBasedOnUrl: >-
-  https://flipboard.com/@ingabrel/design-2vhu0lhey/typographer%E2%80%99s-typefaces/a-ERa0svsDTJS9670VKW42nA%3Aa%3A244010530-%2F0
+  https://flipboard.com/@ingabrel/design-2vhu0lhey/friday-fresh-free-fonts---libre-caslon%2C-havana%2C-kingsbridge/a-xDmRHAMuQT2vRilvZY_3NA%3Aa%3A244010530-66a505332f%2Fabduzeedo.com
 title: design on Flipboard
-datePublished: '2016-08-23T17:32:38.577Z'
-dateModified: '2016-08-23T17:31:54.682Z'
+datePublished: '2016-08-23T17:36:27.410Z'
+dateModified: '2016-08-23T17:35:15.764Z'
 via: {}
 starred: false
 sourcePath: _posts/2016-08-23-design-on-flipboard.md
