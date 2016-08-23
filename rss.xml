@@ -4,8 +4,15 @@
         <description><![CDATA[eyebrandit]]></description>
         <link>https://thegrid.ai/eyebrandit/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 23 Aug 2016 17:49:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Aug 2016 17:50:03 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/eyebrandit/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Momentum]]></title>
+            <description><![CDATA[<article><h1>Momentum</h1><p>Momentum 2016 is an event focused on quality, not quantity. 5000 like-minded people are set to witness 12, painstakingly selected speakers tell their honest, passionate and sometimes personal stories on how the turning points of their pasts changed the trajectory of the future.</p></article>]]></description>
+            <link>http://thenextweb.com/momentum/?utm_medium=referral&amp;utm_source=thenextweb.com&amp;utm_campaign=MOM16_Canvas2</link>
+            <guid isPermaLink="false">acc662ad-239a-4082-8cb4-e7b6db1aa356</guid>
+            <pubDate>Tue, 23 Aug 2016 17:49:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How The New Yorker Finally Figured Out The Internet: 3 Lessons From Its Web Redesign]]></title>
             <description><![CDATA[<article><h1>How The New Yorker Finally Figured Out The Internet: 3 Lessons From Its Web Redesign</h1><p>In late July, NewYorker.com unveiled a slew of changes aimed at modernizing the site. The update included a responsive design that's meant to work just as well on smartphones as it does on desktops and free (if temporary) access to an archive previously only available to subscribers.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/e4e260d0daeccaa131fda4c5436cc960/noop.jpg?input=https%3A%2F%2Fa.fastcompany.net%2Fmultisite_files%2Ffastcompany%2Fimagecache%2Finline-large%2Finline%2F2014%2F09%2F3035381-inline-i-1-3-lessons-other-pubs-can-learn-from-newyorkercoms-redesign.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<p>Inspiration</p>]]></description>
             <link>https://thegrid.ai/eyebrandit/inspiration/index.html</link>
             <guid isPermaLink="false">4780aee9-a697-4661-bea2-63bb12401d2a</guid>
-            <pubDate>Tue, 23 Aug 2016 17:46:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Modern Examples of the Classic Sidebar Menu Layout]]></title>
-            <description><![CDATA[<article><h1>Modern Examples of the Classic Sidebar Menu Layout</h1><p>The sidebar menu seems to be coming back into fashion once again after it was left behind for horizontal navigation bars. The sidebar menu was most common back in the early days of web design, but these days we're starting to see designers ditch the horizontal nav bar in favour of the vertical list once again.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/d5e37ac4cf71083668f5c1d6918d5ff4/noop.jpg?input=http%3A%2F%2Fline25.com%2Fwp-content%2Fuploads%2F2014%2Fsidebar%2F1.jpg"></article>]]></description>
-            <link>http://line25.com/articles/modern-examples-of-the-classic-sidebar-menu-layout</link>
-            <guid isPermaLink="false">cca677be-8591-4c89-8d01-50620e4700a8</guid>
             <pubDate>Tue, 23 Aug 2016 17:46:30 GMT</pubDate>
         </item>
     </channel>
