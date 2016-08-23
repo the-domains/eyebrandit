@@ -57,10 +57,10 @@ app_links:
     name: Flipboard
     id: flipboard.app
 isBasedOnUrl: >-
-  https://flipboard.com/@ingabrel/design-2vhu0lhey/friday-fresh-free-fonts---libre-caslon%2C-havana%2C-kingsbridge/a-xDmRHAMuQT2vRilvZY_3NA%3Aa%3A244010530-66a505332f%2Fabduzeedo.com
+  https://flipboard.com/@ingabrel/design-2vhu0lhey/comprehensive-review-of-ux-tools-for-your-website/a-J_kS73WrQLyxTqZmwJrBPQ%3Aa%3A244010530-6c36c347bb%2Fui-patterns.com
 title: design on Flipboard
-datePublished: '2016-08-23T17:36:27.410Z'
-dateModified: '2016-08-23T17:35:15.764Z'
+datePublished: '2016-08-23T17:54:30.629Z'
+dateModified: '2016-08-23T17:52:39.568Z'
 via: {}
 starred: false
 sourcePath: _posts/2016-08-23-design-on-flipboard.md
