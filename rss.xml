@@ -4,8 +4,15 @@
         <description><![CDATA[eyebrandit]]></description>
         <link>https://thegrid.ai/eyebrandit/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 23 Aug 2016 17:47:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Aug 2016 17:49:37 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/eyebrandit/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[50 Free Resources for Web Designers from 2014]]></title>
+            <description><![CDATA[<article><h1>50 Free Resources for Web Designers from 2014</h1><p>In this post, I have collated my top 50 free resources for web designers from 2014. There are libraries for quickly creating CSS charts and animating SVG icons, tools for converting image files to data URIs, web-based apps for creating icon fonts from SVGs, jQuery plugins for touch-enabled sliders, JavaScript libraries for creating animated GIFs, generators for creating Flexbox layouts...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/515b7e3930cdcf722fda3ed95f37052d/noop.jpg?input=https%3A%2F%2Fenvato.com%2Fwp-content%2Fuploads%2F2014%2F12%2F50-Free-Resources-for-Web-Designers-from-2014-1200x630.jpg"></article>]]></description>
+            <link>https://envato.com/blog/free-resources-developers-2014/</link>
+            <guid isPermaLink="false">b9761fd7-3465-469b-ae84-18e2b1699ef4</guid>
+            <pubDate>Tue, 23 Aug 2016 17:49:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Most Beautiful Websites for Your Inspiration]]></title>
             <description><![CDATA[<article><h1>The Most Beautiful Websites for Your Inspiration</h1><p>Browsing the Internet is fun. Aside from the seemingly limitless information that is available for the taking, you could see art concocted with usability almost everywhere. Web designers have immensely evolved in their creative means to get through you. They have devised new designs to make the content of the website juggle with its design.</p></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Interactivity, Dynamics, Animations: Fresh Examples of Non-Static Websites - Designmodo</h1><p>Non-static websites is totally not a brand-new concept. At the beginning it was flash-powered websites that impressed us with its fantastic animations and astounding effects, and today they "have passed the baton" to the next more sophisticated and lightweight HTML5-based solutions that ably combine together CSS3 and jQuery possibilities.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/2e1dc1721a79c5d413f76233e95ffcd2/noop.jpg?input=http%3A%2F%2Fdesignmodo.com%2Fwp-content%2Fuploads%2F2014%2F01%2FFixed-Agency.jpg"></article>]]></description>
             <link>http://designmodo.com/non-static-websites/</link>
             <guid isPermaLink="false">bb5964f8-596f-4a98-9037-1656f70ae33e</guid>
-            <pubDate>Tue, 23 Aug 2016 17:46:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>your</p>]]></description>
-            <link>https://thegrid.ai/eyebrandit/your/index.html</link>
-            <guid isPermaLink="false">7beaecdc-649f-4e01-b10c-be08fffacdf9</guid>
             <pubDate>Tue, 23 Aug 2016 17:46:29 GMT</pubDate>
         </item>
     </channel>
