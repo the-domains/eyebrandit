@@ -4,8 +4,15 @@
         <description><![CDATA[eyebrandit]]></description>
         <link>https://thegrid.ai/eyebrandit/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 23 Aug 2016 17:55:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Aug 2016 17:55:16 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/eyebrandit/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[design on Flipboard]]></title>
+            <description><![CDATA[<article><h1>design on Flipboard</h1><p>By Inga Brel | Inga Brel created a magazine on Flipboard. "design on Flipboard" is available with thousands of other magazines and all the news you care about. Download Flipboard for free and search for "Inga Brel".</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/da106bc373fc3ac5a5a7195a87432b3e/croprotate.jpg?cropheight=512&cropwidth=608&degrees=0&input=http%3A%2F%2Fcdn.sixrevisions.com%2F0592-02-v-avenue-freebie.jpg&x=16&y=0"></article>]]></description>
+            <link>https://flipboard.com/@ingabrel/design-2vhu0lhey/comprehensive-review-of-ux-tools-for-your-website/a-J_kS73WrQLyxTqZmwJrBPQ%3Aa%3A244010530-6c36c347bb%2Fui-patterns.com</link>
+            <guid isPermaLink="false">4ce98003-8cc2-4f5b-88f4-c5430e942cd3</guid>
+            <pubDate>Tue, 23 Aug 2016 17:54:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How to Design Better With Remote Usability Tests]]></title>
             <description><![CDATA[<article><h1>How to Design Better With Remote Usability Tests</h1><p>Jerry Cao is a content strategist at UXPin - the wireframing and prototyping app - where he develops in-app and online content for the wireframing and prototyping platform. For details and visuals of how to incorporate usability testing into design, check out the e-book Source: Which UX Research Methods User Testing & Design .</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b7776311f8013d789d44e5223da240da/noop.jpg?input=http%3A%2F%2Fcdn1.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2014%2F12%2Fremotetests.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://mashable.com/2014/12/18/useful-web-tools/#jrRMCv0rVmqr</link>
             <guid isPermaLink="false">a2b29435-3e78-4f0f-a609-0d08006c5f9e</guid>
             <pubDate>Tue, 23 Aug 2016 17:54:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[21 Great Tools for Responsive Web Design]]></title>
-            <description><![CDATA[<article><h1>21 Great Tools for Responsive Web Design</h1><p>As web designer, we knows that responsive web design had come to stay. You've taken your time to build a very beautiful and robust website, with considerable number of traffic to your site from search engines. Then, you come to the reality of devices. Which device will be used to open your website?.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/7b49b5f04f16a28f9bfd0bfad5ac24bf/noop.jpg?input=http%3A%2F%2Fcdn.instantshift.com%2Fmedia%2Fuploads%2F2014%2F12%2Fresponsive-web-design-tools.jpg"></article>]]></description>
-            <link>http://www.instantshift.com/2014/12/31/responsive-web-design-tools/</link>
-            <guid isPermaLink="false">13f235af-50fa-47d2-a274-b73ae0bc4a6b</guid>
-            <pubDate>Tue, 23 Aug 2016 17:54:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
