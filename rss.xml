@@ -4,8 +4,15 @@
         <description><![CDATA[eyebrandit]]></description>
         <link>https://thegrid.ai/eyebrandit/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 23 Aug 2016 17:46:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Aug 2016 17:46:50 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/eyebrandit/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[20 Web Designs That Look Like Animated Infographics]]></title>
+            <description><![CDATA[<article><h1>20 Web Designs That Look Like Animated Infographics</h1><p>Over the past year or two we've seen the latest CSS and Javascript animation abilities being used to really enhance the experience of browsing a web page, with sites these days being a closer resemblance to infographics or Powerpoint presentations.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/dbafef295675c5be301bafd073ed02f2/noop.jpg?input=http%3A%2F%2Fline25.com%2Fwp-content%2Fuploads%2F2014%2Finfographic%2F1.jpg"></article>]]></description>
+            <link>http://line25.com/articles/20-web-designs-that-look-like-animated-infographics</link>
+            <guid isPermaLink="false">1c3ca2d6-039a-4729-8de7-fd3349702761</guid>
+            <pubDate>Tue, 23 Aug 2016 17:46:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How To Decorate A Blank Wall]]></title>
             <description><![CDATA[<article><h1>How To Decorate A Blank Wall</h1><p>Choose Patterned Paper and a Tapestry In the den of Jonathan Adler and Simon Doonan's Florida home, the Butterfield sofa, Beatrice lamp, and Richard Nixon rug are all Adler designs; the wallpaper and the butterfly tapestry are vintage, and the backgammon set is by Albrizzi.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/6d4f1d5dceff511e8e77cc91d6251bce/croprotate.jpg?cropheight=338&cropwidth=424&degrees=0&input=http%3A%2F%2Fhbz.h-cdn.co%2Fassets%2Fcm%2F15%2F11%2F55025a4c3ab69_-_hbz-edc-syn-01-xl.jpg&x=88&y=0"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.designyourway.net/blog/resources/freebies-for-designers-icons-fonts-psd-files-and-mockups/</link>
             <guid isPermaLink="false">2e7d5739-9c13-45d6-93a3-69f17061e996</guid>
             <pubDate>Tue, 23 Aug 2016 17:41:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Exploring Current Web Design Trends]]></title>
-            <description><![CDATA[<article><h1>Exploring Current Web Design Trends</h1><p>The funny thing about current web design trends is that they are both helpful and detrimental. Trends set the standard for design elements and styles that are popular for a specific era, so keeping up with current trends means that web designers and developers are better able to create a modern look for clients.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/a2297c07437bb49fb366440228b0ad44/noop.jpg?input=https%3A%2F%2Fspeckycdn-sdm.netdna-ssl.com%2Fwp-content%2Fuploads%2F2014%2F06%2F01-pros-cons-trends-terra.jpg"></article>]]></description>
-            <link>https://speckyboy.com/2014/06/09/current-web-design-trends/</link>
-            <guid isPermaLink="false">9cd7c666-3250-453d-9151-4894906178c7</guid>
-            <pubDate>Tue, 23 Aug 2016 17:41:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
