@@ -1,6 +1,6 @@
 name: eyebrandit
 favicon: null
-layout_spectrum: 0
+layout_spectrum: 1
 typography_spectrum: 0.48228
 cta:
   domain: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
-  brandStrength: 0.25
-  lightness: 0.6985292870085686
-  saturation: 0.6875
-  rhythmicContrast: 0.3155230425763875
+    - '#9e9ea0'
+    - '#2e2a27'
+    - '#161415'
+    - '#46423f'
+    - '#7e7d7a'
+  brandStrength: 0
+  lightness: 1
+  saturation: 0.4375
+  rhythmicContrast: 1
 purpose: []
