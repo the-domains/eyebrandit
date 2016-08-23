@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[eyebrandit]]></title>
-        <description><![CDATA[eyebrandit]]></description>
+        <title><![CDATA[D E S I G N   R E S O U R C E S]]></title>
+        <description><![CDATA[D E S I G N   R E S O U R C E S]]></description>
         <link>https://thegrid.ai/eyebrandit/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 23 Aug 2016 17:55:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Aug 2016 17:58:58 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/eyebrandit/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://cdn.arstechnica.net/wp-content/uploads/2014/08/2351656805_2983091852_o-640x434.jpg">]]></description>
+            <link>https://thegrid.ai/eyebrandit/e9e67adb-c40a-455f-b33a-dfd55fc637cd/index.html</link>
+            <guid isPermaLink="false">e9e67adb-c40a-455f-b33a-dfd55fc637cd</guid>
+            <pubDate>Tue, 23 Aug 2016 17:54:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[101 Free WordPress Themes: The Ultimate List]]></title>
             <description><![CDATA[<article><h1>101 Free WordPress Themes: The Ultimate List</h1><p>Looking for a great looking, free theme for your new WordPress site? You've come to the right place! Today we've gathered over 100 of the best free WordPress</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/8e09ee87d6e9e88c5b5557864360d927/noop.jpg?input=http%3A%2F%2Fwww.syntaxxx.com%2Fprojects%2Fwordpress-themes%2Fradiate.jpg"></article>]]></description>
@@ -60,20 +67,6 @@
             <description><![CDATA[<article><h1>Web Design Trends for 2015 - Latest trends in design, technology and business</h1><p>Videos are a great way to reflect the purpose and uniqueness of your site, so don't hesitate to make a large beautiful image or a video on your homepage. Add an aesthetic touch to your site with elegant images. A prominent tag line and a ghost button along with an elegant image is the winning recipe for a unique website.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/183d66884e43545f1a5eef101a561df7/noop.png?input=https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F1200%2F1*xHHvVk8iFMeIw_QwsnmrbQ.png"></article>]]></description>
             <link>https://thegrid.ai/eyebrandit/web-design-trends-for-2015-latest-trends-in-design-techno/index.html</link>
             <guid isPermaLink="false">37162155-67ec-4ac3-b928-2c4f98feb1b6</guid>
-            <pubDate>Tue, 23 Aug 2016 17:54:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[London Luton Airport Typeface and Icons]]></title>
-            <description><![CDATA[<article><h1>London Luton Airport Typeface and Icons</h1><p>Gijon, Spain based graphic design studio Atipo was commissioned by Icodesign to create a bespoke typeface and icon set for the new visual identity and signage system for the London Luton Airport. The custom font includes a Light, Regular, Bold, and Black version.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/e959aa4ae192d3d25f25d5bc700a50b7/noop.png?input=http%3A%2F%2Fweandthecolor.com%2Fwp-content%2Fuploads%2F2014%2F12%2F2-LLA-Font-Basic-character-set.png"></article>]]></description>
-            <link>http://weandthecolor.com/london-luton-airport-typeface-icons/48283</link>
-            <guid isPermaLink="false">646b26c9-d0cb-4e41-88a9-3be228880ce5</guid>
-            <pubDate>Tue, 23 Aug 2016 17:54:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Effective Use of Gradients on Website Landing Pages]]></title>
-            <description><![CDATA[<article><h1>The Effective Use of Gradients on Website Landing Pages</h1><p>Recently the use of gradients in web design has been increasing, and gradients are used for a number of reasons. Firstly, they are now easier than ever to implement with the advent of CSS3 styling attributes including gradients. Another reason to use gradients is for visual effect, especially if your site is image-light.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/5674b76c514215503d6d97d7d1793fb0/noop.jpg?input=http%3A%2F%2Fcdn.onextrapixel.com%2Fwp-content%2Fuploads%2F2014%2F08%2F1-Stripe.jpg"></article>]]></description>
-            <link>http://www.onextrapixel.com/2014/12/19/the-effective-use-of-gradients-on-website-landing-pages/</link>
-            <guid isPermaLink="false">b03d3c36-8fbf-4262-a6a7-2095c2432d12</guid>
             <pubDate>Tue, 23 Aug 2016 17:54:30 GMT</pubDate>
         </item>
     </channel>
