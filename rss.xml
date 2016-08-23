@@ -4,22 +4,8 @@
         <description><![CDATA[eyebrandit]]></description>
         <link>https://thegrid.ai/eyebrandit/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 23 Aug 2016 17:50:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Aug 2016 17:50:07 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/eyebrandit/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[10 design concepts that every web developer needs to know]]></title>
-            <description><![CDATA[<article><h1>10 design concepts that every web developer needs to know</h1><p>Over the last few years I've been teaching a workshop on visual design basics aimed at developers. As with most things on the web, I've found a diverse level of design knowledge and interest from both the students who've taken my workshop, as well as from the developers I've worked with.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/6dbe0dca1c135437592f272e843d91ae/noop.jpg?input=http%3A%2F%2Fcdn.mos.cms.futurecdn.net%2F271434ab8dd76410a2ab9c9f7a8a78d5-1200-80.jpg"></article>]]></description>
-            <link>http://www.creativebloq.com/web-design/10-design-concepts-web-developers-need-know-11135255</link>
-            <guid isPermaLink="false">eff89204-3260-420b-8dc1-9310ff4adbc6</guid>
-            <pubDate>Tue, 23 Aug 2016 17:49:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>whether</p>]]></description>
-            <link>https://thegrid.ai/eyebrandit/whether/index.html</link>
-            <guid isPermaLink="false">e9982254-067e-431d-9c3a-1f2ec45e011c</guid>
-            <pubDate>Tue, 23 Aug 2016 17:49:34 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[User Experience Smackdown: Usability Testing Vs. User Testing]]></title>
             <description><![CDATA[<article><h1>User Experience Smackdown: Usability Testing Vs. User Testing</h1><p>Throughout my user experience (UX) career, I have encountered many people who honestly, truly believe that their company conducts usability tests on a regular basis. But when I probe for details, I quickly learn the truth. For example, I was hired to produce wireframes and advanced prototypes for the health section of a major brand's website.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/690b1ea53553925e46b5cd0d7822e372/croprotate.jpg?cropheight=1080&cropwidth=1860&degrees=0&input=http%3A%2F%2Fmarketingland.com%2Fwp-content%2Fml-loads%2F2014%2F11%2Fusability-user-testing.jpg&x=30&y=0"></article>]]></description>
@@ -75,6 +61,20 @@
             <link>http://1stwebdesigner.com/most-beautiful-websites/</link>
             <guid isPermaLink="false">0f1a52d7-c72c-4b42-b3fb-9410a591ca18</guid>
             <pubDate>Tue, 23 Aug 2016 17:46:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[7 Free Minimalistic Fonts for Your Designs - Web Design Ledger]]></title>
+            <description><![CDATA[<article><h1>7 Free Minimalistic Fonts for Your Designs - Web Design Ledger</h1><p>Long gone are the days of busy, over cluttered designs. Now it's all about minimalism, which puts more emphasis on typography. That's why it's important to be using the right fonts. Below you'll find 7 free minimalistic fonts that that should work well in your simple designs.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/f26e457dd938db17f9d7a7712fa03a94/noop.jpg?input=http%3A%2F%2Fwebdesignledger.com%2Fwp-content%2Fuploads%2F2014%2F05%2Ffont.jpg"></article>]]></description>
+            <link>http://webdesignledger.com/free-minimalistic-fonts/</link>
+            <guid isPermaLink="false">5e0558df-8c32-45f3-8d9e-8bbfc4060fe8</guid>
+            <pubDate>Tue, 23 Aug 2016 17:46:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>including</p>]]></description>
+            <link>https://thegrid.ai/eyebrandit/including/index.html</link>
+            <guid isPermaLink="false">aca922e8-e861-4c71-98d4-de5db860b39b</guid>
+            <pubDate>Tue, 23 Aug 2016 17:46:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
